@@ -1,0 +1,64 @@
+ {
+  "data": [
+    {
+      "name": "Person Fizik",
+      "path": "/sq/search?form=Person+Fizik"
+    },
+    {
+      "name": "Shoqëri Komandite",
+      "path": "/sq/search?form=Shoqëri+Komandite"
+    },
+    {
+      "name": "Shoqëri Kolektive",
+      "path": "/sq/search?form=Shoqëri+Kolektive"
+    },
+    {
+      "name": "Shoqëri Aksionare SH.A",
+      "path": "/sq/search?form=Shoqëri+Aksionare+SH.A"
+    },
+    {
+      "name": "Shoqëri me Përgjegjësi të Kufizuar SH.P.K",
+      "path": "/sq/search?form=Shoqëri+me+Përgjegjësi+të+Kufizuar+SH.P.K"
+    },
+    {
+      "name": "SH.A Koncesionare/PPP",
+      "path": "/sq/search?form=SH.A+Koncesionare%2FPPP"
+    },
+    {
+      "name": "SH.P.K Koncesionare/PPP",
+      "path": "/sq/search?form=SH.P.K+Koncesionare%2FPPP"
+    },
+    {
+      "name": "Degë të Shoqërive të Huaja",
+      "path": "/sq/search?form=Degë+të+Shoqërive+të+Huaja"
+    },
+    {
+      "name": "Organizata JoFitimprurëse",
+      "path": "/sq/search?form=Organizata+JoFitimprurëse"
+    },
+    {
+      "name": "aktiv",
+      "path": "/sq/search?status=aktiv"
+    },
+    {
+      "name": "Ç’regjistruar",
+      "path": "/sq/search?status=Ç’regjistruar"
+    },
+    {
+      "name": "Nën sekuestro",
+      "path": "/sq/search?status=Nën sekuestro"
+    },
+    {
+      "name": "Në proces falimentimi",
+      "path": "/sq/search?status=Në proces falimentimi"
+    },
+    {
+      "name": "Në proces likuidimi",
+      "path": "/sq/search?status=Në proces likuidimi"
+    },
+    {
+      "name": "Pezulluar",
+      "path": "/sq/search?status=Pezulluar"
+    }
+  ]
+}
