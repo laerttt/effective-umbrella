@@ -81,6 +81,5 @@ dmypy.json
 # Local env vars
 .env
 
-subdomains.json
 # Ignore your requirements.txt only if you want (usually track it)
 # requirements.txt
